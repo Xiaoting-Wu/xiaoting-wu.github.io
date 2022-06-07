@@ -1,12 +1,14 @@
-## Welcome to the Ting Wu Lab
+## Exploring the neural basis of social cognition
+Icahn School of Medicine at Mount Sinai
 
-You can use the [editor on GitHub](https://github.com/Xiaoting-Wu/xiaoting-wu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="tracing.png" alt="hippocampal neurons" style="height: 350px; width:1600px;"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ting Wu lab
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research
+
+
 
 ```markdown
 Syntax highlighted code block
