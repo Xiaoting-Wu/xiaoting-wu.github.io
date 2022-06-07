@@ -1,9 +1,10 @@
-## Exploring the neural basis of social cognition
+## Ting Wu Lab
 Icahn School of Medicine at Mount Sinai
 
 <img src="tracing.png" alt="hippocampal neurons" style="height: 350px; width:1600px;"/>
 
-### Ting Wu lab
+
+### Research
 
 
 ### Research
